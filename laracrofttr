@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Game</title>
+    </head>
+    <body>
+        <header>
+            <img src="./shadow-of-the-tomb-raider-launch-trailer.jpg">
+            <h1>Game</h1>
+        </header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Cерия игр</a>
+                    <ol>
+                        <li>Tomb Raider 2013</li>
+                        <li>Rise of the Tomb Raider</li>
+                        <li>Shadow of the Tomb Raider</li>
+                    </ol>
+                </li>
+            </ul>
+        </nav>
+
+        <main>
+            <article>
+                <h2>История разработки Tomb Raider</h2>
+            <p>Трилогия Томб Райдер отнюдь не самая первая,так как первая игра появилась в 1996 году и получила много сиквелов.
+                Трилогия это второй перезапуск всей серии, в которой изменили боевую систему, сделали акцент не на расхищении гробниц,а на выживании и решении различных головоломок.
+                Первый же перезапуск игры провалился и не принёс никакого успеха.
+                Более того, игра вышла в гораздо лучшей графике, нежели была ранее.
+            </p>
+            </article>
+
+        </main>
+
+        <footer>
+         2023
+        </footer>
+    </body>
+</html>
