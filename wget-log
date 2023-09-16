@@ -1,0 +1,11 @@
+--2023-09-16 23:03:16--  https://avatars.mds.yandex.net/i?id=28d8d4d3dbdd10ea0de8012cf5533203aa69e2f1-9229079-images-thumbs
+Resolving avatars.mds.yandex.net (avatars.mds.yandex.net)... 87.250.247.183, 87.250.247.184, 87.250.247.181, ...
+Connecting to avatars.mds.yandex.net (avatars.mds.yandex.net)|87.250.247.183|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4986 (4,9K) [image/jpeg]
+Saving to: ‘i?id=28d8d4d3dbdd10ea0de8012cf5533203aa69e2f1-9229079-images-thumbs’
+
+                        i?id=28d8d4d3dbdd10ea0de   0%[                                                                                                        ]       0  --.-KB/s               i?id=28d8d4d3dbdd10ea0de8012cf5533203aa69e2f1-92 100%[=======================================================================================================>]   4,87K  --.-KB/s    in 0s      
+
+2023-09-16 23:03:17 (2,44 GB/s) - ‘i?id=28d8d4d3dbdd10ea0de8012cf5533203aa69e2f1-9229079-images-thumbs’ saved [4986/4986]
+
