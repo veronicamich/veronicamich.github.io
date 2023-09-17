@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Game</title>
+        <link href="style.css" rel="stylesheet">
     </head>
     <body>
         <header>
@@ -14,9 +15,15 @@
                 <li>
                     <a href="index.html">Cерия игр</a>
                     <ol>
-                        <li>Tomb Raider 2013</li>
-                        <li>Rise of the Tomb Raider</li>
-                        <li>Shadow of the Tomb Raider</li>
+                        <li>
+                            <a href="./tr2013.html">Tomb Raider 2013</a>.
+                        </li>
+                        <li>
+                            <a href="./rottr.html">Rise of the Tomb Raider</a>.
+                        </li>
+                        <li>
+                            <a href="./sottr.html">Shadow of the Tomb Raider</a>.
+                        </li>
                     </ol>
                 </li>
             </ul>
